@@ -6,4 +6,3 @@
  - Maximum waitlist size of 15 enforced
  - Students may not be on more than 3 waiting lists
  - Waitlists ordered by time 
- - 
